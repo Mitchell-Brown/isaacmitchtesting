@@ -1,0 +1,11 @@
+c:\users\mitchell\documents\visual studio 2017\Projects\Id\Id\bin\Debug\netcoreapp1.1\Id.deps.json
+c:\users\mitchell\documents\visual studio 2017\Projects\Id\Id\bin\Debug\netcoreapp1.1\Id.runtimeconfig.json
+c:\users\mitchell\documents\visual studio 2017\Projects\Id\Id\bin\Debug\netcoreapp1.1\Id.runtimeconfig.dev.json
+c:\users\mitchell\documents\visual studio 2017\Projects\Id\Id\bin\Debug\netcoreapp1.1\Id.dll
+c:\users\mitchell\documents\visual studio 2017\Projects\Id\Id\obj\Debug\netcoreapp1.1\Id.csprojResolveAssemblyReference.cache
+c:\users\mitchell\documents\visual studio 2017\Projects\Id\Id\obj\Debug\netcoreapp1.1\Id.AssemblyInfo.cs
+c:\users\mitchell\documents\visual studio 2017\Projects\Id\Id\bin\Debug\netcoreapp1.1\Id.pdb
+c:\users\mitchell\documents\visual studio 2017\Projects\Id\Id\obj\Debug\netcoreapp1.1\Id.dll
+c:\users\mitchell\documents\visual studio 2017\Projects\Id\Id\obj\Debug\netcoreapp1.1\Id.pdb
+C:\Users\Mitchell\Documents\Visual Studio 2017\Projects\Id\Id\obj\Debug\netcoreapp1.1\Id.csproj.CoreCompileInputs.cache
+C:\Users\Mitchell\Documents\Visual Studio 2017\Projects\Id\Id\obj\Debug\netcoreapp1.1\Id.AssemblyInfoInputs.cache
