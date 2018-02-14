@@ -18,11 +18,5 @@ namespace Id.Modules
 
         [Command("user")]
         public async Task test2lol(IGuildUser user) => await Context.Channel.SendMessageAsync(user.ToString());
-
-        [Command("roll")]
-        public async Task rollstuff(int1 int2)
-        {
-            await Context.Channel.SendMessageAsync("Rolling " + int1.toString + "d " + int2.toString);
-        }
     }
 }

@@ -9,3 +9,15 @@ c:\users\mitchell\documents\visual studio 2017\Projects\Id\Id\obj\Debug\netcorea
 c:\users\mitchell\documents\visual studio 2017\Projects\Id\Id\obj\Debug\netcoreapp1.1\Id.pdb
 C:\Users\Mitchell\Documents\Visual Studio 2017\Projects\Id\Id\obj\Debug\netcoreapp1.1\Id.csproj.CoreCompileInputs.cache
 C:\Users\Mitchell\Documents\Visual Studio 2017\Projects\Id\Id\obj\Debug\netcoreapp1.1\Id.AssemblyInfoInputs.cache
+C:\Users\Mitchell\Google Drive\github\isaacmitchtesting\Id\obj\Debug\netcoreapp1.1\Id.csprojResolveAssemblyReference.cache
+C:\Users\Mitchell\Google Drive\github\isaacmitchtesting\Id\obj\Debug\netcoreapp1.1\Id.csproj.CoreCompileInputs.cache
+C:\Users\Mitchell\Google Drive\github\isaacmitchtesting\Id\obj\Debug\netcoreapp1.1\Id.AssemblyInfoInputs.cache
+C:\Users\Mitchell\Google Drive\github\isaacmitchtesting\Id\obj\Debug\netcoreapp1.1\Id.AssemblyInfo.cs
+C:\Users\Mitchell\Google Drive\github\isaacmitchtesting\Id\obj\Debug\netcoreapp1.1\Id.dll
+C:\Users\Mitchell\Google Drive\github\isaacmitchtesting\Id\obj\Debug\netcoreapp1.1\Id.pdb
+C:\Users\Mitchell\Google Drive\github\isaacmitchtesting\Id\Id\obj\Debug\netcoreapp1.1\Id.csprojResolveAssemblyReference.cache
+C:\Users\Mitchell\Google Drive\github\isaacmitchtesting\Id\Id\obj\Debug\netcoreapp1.1\Id.csproj.CoreCompileInputs.cache
+C:\Users\Mitchell\Google Drive\github\isaacmitchtesting\Id\Id\obj\Debug\netcoreapp1.1\Id.AssemblyInfoInputs.cache
+C:\Users\Mitchell\Google Drive\github\isaacmitchtesting\Id\Id\obj\Debug\netcoreapp1.1\Id.AssemblyInfo.cs
+C:\Users\Mitchell\Google Drive\github\isaacmitchtesting\Id\Id\obj\Debug\netcoreapp1.1\Id.dll
+C:\Users\Mitchell\Google Drive\github\isaacmitchtesting\Id\Id\obj\Debug\netcoreapp1.1\Id.pdb
