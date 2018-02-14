@@ -7859,11 +7859,11 @@
       "hideWarningsAndErrors": true
     },
     "restore": {
-      "projectUniqueName": "C:\\Users\\Mitchell\\Google Drive\\github\\isaacmitchtesting\\Id\\Id\\Id.csproj",
+      "projectUniqueName": "C:\\Users\\Mitchell\\Google Drive\\github\\isaacmitchtesting\\Id\\Id.csproj",
       "projectName": "Id",
-      "projectPath": "C:\\Users\\Mitchell\\Google Drive\\github\\isaacmitchtesting\\Id\\Id\\Id.csproj",
+      "projectPath": "C:\\Users\\Mitchell\\Google Drive\\github\\isaacmitchtesting\\Id\\Id.csproj",
       "packagesPath": "C:\\Users\\Mitchell\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Mitchell\\Google Drive\\github\\isaacmitchtesting\\Id\\Id\\obj\\",
+      "outputPath": "C:\\Users\\Mitchell\\Google Drive\\github\\isaacmitchtesting\\Id\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Mitchell\\AppData\\Roaming\\NuGet\\NuGet.Config",
