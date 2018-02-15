@@ -5,3 +5,10 @@ c:\users\isaac\source\repos\Decisions\Decisions\obj\Debug\Decisions.csprojResolv
 c:\users\isaac\source\repos\Decisions\Decisions\obj\Debug\Decisions.csproj.CoreCompileInputs.cache
 c:\users\isaac\source\repos\Decisions\Decisions\obj\Debug\Decisions.exe
 c:\users\isaac\source\repos\Decisions\Decisions\obj\Debug\Decisions.pdb
+C:\Users\Mitchell\Google Drive\github\isaacmitchtesting\Decisions\Decisions\bin\Debug\Decisions.exe.config
+C:\Users\Mitchell\Google Drive\github\isaacmitchtesting\Decisions\Decisions\bin\Debug\Decisions.exe
+C:\Users\Mitchell\Google Drive\github\isaacmitchtesting\Decisions\Decisions\bin\Debug\Decisions.pdb
+C:\Users\Mitchell\Google Drive\github\isaacmitchtesting\Decisions\Decisions\obj\Debug\Decisions.csprojResolveAssemblyReference.cache
+C:\Users\Mitchell\Google Drive\github\isaacmitchtesting\Decisions\Decisions\obj\Debug\Decisions.csproj.CoreCompileInputs.cache
+C:\Users\Mitchell\Google Drive\github\isaacmitchtesting\Decisions\Decisions\obj\Debug\Decisions.exe
+C:\Users\Mitchell\Google Drive\github\isaacmitchtesting\Decisions\Decisions\obj\Debug\Decisions.pdb
